@@ -13,7 +13,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 3. 
 4. 
 
-## Program:
+## Program: 
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
